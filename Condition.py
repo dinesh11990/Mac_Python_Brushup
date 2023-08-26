@@ -10,3 +10,8 @@ if(Rover=="Found"):
     print("Success")
 else:
     print("Failed")
+
+#Remainder
+
+print(16%3)
+
